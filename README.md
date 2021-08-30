@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Herasia
+- 👀 I’m interested in LUA
+- 🌱 I’m currently learning HTML, CSS, NODE JS, JS 
+- 💞️ I’m looking to collaborate on Nothing BOZO
+- 📫 How to reach me :Discord : Nakou#1337
